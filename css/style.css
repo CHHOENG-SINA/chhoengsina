@@ -170,7 +170,7 @@ h3 {
 }
 .hero_right {
   flex: 1 1 60%;
-  background-image: url(images/bg.png);
+  background-image: url(../images/bg.png);
   background-position: 90% 40%;
   background-size: 61%;
   background-repeat: no-repeat;
